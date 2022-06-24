@@ -1,2 +1,3 @@
-# Machine-Learning-Coursera
-Assignments of ML course (Octave/Matlab version)
+# Coursera-Machine-Learning
+
+Assignments of course's Machine Learning (Octave/Matlab version) by Andrew Ng
