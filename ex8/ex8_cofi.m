@@ -58,6 +58,7 @@ Theta = Theta(1:num_users, 1:num_features);
 Y = Y(1:num_movies, 1:num_users);
 R = R(1:num_movies, 1:num_users);
 
+
 %  Evaluate cost function
 J = cofiCostFunc([X(:) ; Theta(:)], Y, R, num_users, num_movies, ...
                num_features, 0);
